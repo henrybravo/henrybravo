@@ -1,3 +1,21 @@
-# Hi there! :thumbsup:
+# 👋 Welcome to Henry Bravo's GitHub!
 
-I am Henry Bravo, an experienced IT professional (ex-AWS) running an international consultancy practice (called Bravo IT) in Europe :rocket:. Here at :octocat: github you will find work used for demonstrations, experiments, poc's and (former) projects while working at AWS and the customers at the time. I also work on stuff that is hosted at [gitlab/henrybravo](https://gitlab.com/henrybravo). So check out those repos too for more example solutions related to cloud development, recently on Azure and mostly on [AWS](https://aws.amazon.com/) :cloud:
+I'm Henry Bravo, an experienced IT professional (ex-AWS) based in **The Netherlands**. I run **Bravo IT**, an international consultancy practice delivering innovative solutions across **Europe** 🚀.
+
+## About Me
+- 💻 **Expertise**: Cloud architecture, AI applications, and IT consultancy with a focus on AWS and Azure.
+- 🌍 **Location**: The Netherlands, serving clients throughout Europe.
+
+## What You'll Find Here
+This GitHub repository is a showcase of my technical work, including:
+- 🧪 **Proofs of Concept (PoCs)** and experiments from my time at AWS.
+- 📊 **Demonstrations** and sample projects for clients.
+- 🛠️ **Open-source contributions** and innovative solutions in cloud and AI.
+
+For more of my work, check out my [GitLab profile](https://gitlab.com/henrybravo), where I share additional projects focused on **modern AI applications** and **cloud development** (primarily AWS and Azure) ☁️.
+
+## Get in Touch
+- 🌐 Visit my website: [henrybravo.nl](https://henrybravo.nl)
+- 📫 Connect with me for consultancy or collaboration opportunities!
+
+*Explore my repositories below to see my work in action!*
