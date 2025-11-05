@@ -1,9 +1,9 @@
 # 👋 Welcome to Henry Bravo's GitHub!
 
-I'm Henry Bravo, an experienced IT professional (ex-AWS) based in **The Netherlands**. I run **Bravo IT**, an international consultancy practice delivering innovative solutions across **Europe** 🚀.
+I'm Henry Bravo, an experienced IT professional (ex-AWS) based in **The Netherlands** 🚀 working at Microsoft ☁️
 
 ## About Me
-- 💻 **Expertise**: Cloud architecture, AI applications, and IT consultancy with a focus on AWS and Azure.
+- 💻 **Expertise**: Cloud architecture, AI applications, and IT consultancy with a focus on Azure.
 - 🌍 **Location**: The Netherlands, serving clients throughout Europe.
 
 ## What You'll Find Here
@@ -16,6 +16,6 @@ For more of my work, check out my [GitLab profile](https://gitlab.com/henrybravo
 
 ## Get in Touch
 - 🌐 Visit my website: [henrybravo.nl](https://henrybravo.nl)
-- 📫 Connect with me for consultancy or collaboration opportunities!
+- 📫 Connect with me and say hi!
 
 *Explore my repositories below to see my work in action!*
