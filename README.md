@@ -1,6 +1,6 @@
 # 👋 Welcome to Henry Bravo's GitHub!
 
-I'm Henry Bravo, an experienced IT professional (ex-AWS) based in **The Netherlands** 🚀 working at Microsoft ☁️
+I'm Henry Bravo, an experienced IT professional based in **The Netherlands** 🚀 working at Microsoft ☁️
 
 ## About Me
 - 💻 **Expertise**: Cloud architecture, AI applications, and IT consultancy with a focus on Azure.
@@ -8,7 +8,7 @@ I'm Henry Bravo, an experienced IT professional (ex-AWS) based in **The Netherla
 
 ## What You'll Find Here
 This GitHub repository is a showcase of my technical work, including:
-- 🧪 **Proofs of Concept (PoCs)** and experiments from my time at AWS.
+- 🧪 **Proofs of Concept (PoCs)** and experiments for Azure and older ones from my time at AWS.
 - 📊 **Demonstrations** and sample projects for clients.
 - 🛠️ **Open-source contributions** and innovative solutions in cloud and AI.
 
